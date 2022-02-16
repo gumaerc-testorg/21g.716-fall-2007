@@ -2,8 +2,13 @@
 content_type: resource
 description: "This file contains information regarding Rosario Ferr\xE9, \u201CEl\
   \ collar de cam\xE1ndulas,\u201D Papeles de Pandora, 1976."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/4b163f3628dec641e08f3e26f8159d63_MIT21G_716F07_PrgntsCollar.pdf
+file: /media/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/4b163f3628dec641e08f3e26f8159d63_MIT21G_716F07_PrgntsCollar.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: "Rosario Ferr\xE9, \u201CEl collar de cam\xE1ndulas,\u201D Papeles de Pandora,\
   \ 1976"
