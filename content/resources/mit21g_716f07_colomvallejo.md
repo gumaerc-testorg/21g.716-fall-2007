@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a15f3be8-6715-15fe-0319-2092230adc90
 resourcetype: Document
 title: El pan nuestro
 uid: 73462dbf-81db-d89e-9d89-e8486864b919

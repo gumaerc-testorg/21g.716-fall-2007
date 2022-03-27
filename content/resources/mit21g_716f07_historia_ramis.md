@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a54ca85b-8fe0-0bf9-b691-254b4c022885
 resourcetype: Document
 title: 'Tema: La historia prohibida de Puerto Rico'
 uid: 45e0cfa3-b6f6-b05f-7d7f-003a5cace961

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a54ca85b-8fe0-0bf9-b691-254b4c022885
 resourcetype: Document
 title: "Rosario Ferr\xE9, \u201CEl collar de cam\xE1ndulas,\u201D Papeles de Pandora,\
   \ 1976"

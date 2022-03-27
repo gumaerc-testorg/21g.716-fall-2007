@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a54ca85b-8fe0-0bf9-b691-254b4c022885
 resourcetype: Document
 title: Discussion Questions - 27 sept
 uid: d052e6bc-f3a5-2602-2af1-66d942f72d21

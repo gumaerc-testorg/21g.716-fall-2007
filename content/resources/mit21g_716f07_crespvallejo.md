@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a15f3be8-6715-15fe-0319-2092230adc90
 resourcetype: Document
 title: "El poeta peruano C\xE9sar Vallejo en sus poemas \u201CEl pan nuestro\u201D\
   \ y \u201CUn hombre pasa con un pan al hombre\u2026\u201D "

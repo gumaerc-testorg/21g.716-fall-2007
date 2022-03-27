@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a54ca85b-8fe0-0bf9-b691-254b4c022885
 resourcetype: Document
 title: Preguntas de lectura sobre "El remate" de Max Aub
 uid: e5463094-0aa6-e69d-7d02-085a919f6f1d

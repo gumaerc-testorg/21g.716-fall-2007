@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a54ca85b-8fe0-0bf9-b691-254b4c022885
 resourcetype: Document
 title: Introduction to Hispanic Literatures
 uid: b680007d-4f84-05cf-4723-d708910fe39e
