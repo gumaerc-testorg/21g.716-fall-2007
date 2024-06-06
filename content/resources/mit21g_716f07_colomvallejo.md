@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding El pan nuestro.
 file: /courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/73462dbf81dbd89e9d89e8486864b919_MIT21G_716F07_ColomVallejo.pdf
+file_size: 169861
 file_type: application/pdf
 learning_resource_types:
 - Assignments
