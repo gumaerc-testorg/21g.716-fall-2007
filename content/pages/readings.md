@@ -99,7 +99,7 @@ Miguel Hernández and Gabriel Celaya
 
 *Poems by Gabriel Celaya (Spain, 1911-1991):*
 
-"[Hablando en castellano](http://mimosa.pntic.mec.es/jgomez53/poesia/celaya2caste.htm)" (from Cantos íberos, 1955)
+"Hablando en castellano" (from Cantos íberos, 1955)
 
 "[La poesía es un arma cargada de futuro](http://amediavoz.com/celaya.htm)" (from Cantos íberos, 1955)
 
