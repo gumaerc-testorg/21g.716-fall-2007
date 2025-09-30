@@ -31,9 +31,9 @@ Introduction
 
 *Poem by Rubén Darío (Nicaragua, 1867-1916)*
 
-"[Venus](http://www.palabravirtual.com/index.php?ir=ver_poema1.php&pid=1155)" in Darío, Rubén. *Azul*. 20a ed. Madrid, Spain: Espasa-Calpa, 1984. ISBN: 9788423900190.
+"{{% resource_link "41232bf3-32f9-41d6-89ee-b42496b94164" "Venus" %}}" in Darío, Rubén. *Azul*. 20a ed. Madrid, Spain: Espasa-Calpa, 1984. ISBN: 9788423900190.
 
-Also on-line at this link: [Venus](http://amediavoz.com/dario.htm#VENUS)
+Also on-line at this link: {{% resource_link "07396d68-f348-4913-8207-dbe5fd2b25df" "Venus" %}}
 
 *Film*
 
@@ -49,17 +49,17 @@ Antonio Machado
 
 *Poems by Antonio Machado (Spain, 1875-1939)*
 
-"[Yo voy soñando caminos](http://www.poemasde.net/yo-voy-sonando-caminos-antonio-machado/)"
+"{{% resource_link "b6792f80-26a6-4c6e-8256-d4f7cd700e5f" "Yo voy soñando caminos" %}}"
 
-"¡Soria fría!" (VI. of "[Campos de Soria](http://www.antoniomachadoensoria.com/camposdecastilla/camposdesoria.htm)")
+"¡Soria fría!" (VI. of "{{% resource_link "ec68167d-a4c5-4e6f-b195-73c19dde5afe" "Campos de Soria" %}}")
 
-"[Retrato](http://www.abelmartin.com/guia/antol/cam.html)"
+"{{% resource_link "f5817a0c-8c99-4990-bf77-4b76bf6e8f86" "Retrato" %}}"
 
-"[El mañana efímero](http://www.archive.org/stream/schlsselzudenau00funcgoog/schlsselzudenau00funcgoog_djvu.txt)"
+"{{% resource_link "5ef974b1-3b93-4c7f-81e2-ed96e158b8d8" "El mañana efímero" %}}"
 
-"[A un olmo seco](http://www.abelmartin.com/guia/antol/cam_4.html)"
+"{{% resource_link "5e3c0556-8725-40e9-b1fa-4db3e97062fb" "A un olmo seco" %}}"
 
-"[A José María Palacios](http://www.antoniomachadoensoria.com/camposdecastilla/ajosemariapalacio.htm)"
+"{{% resource_link "9d8f8f47-bc85-4336-9e19-01f94dd82ad4" "A José María Palacios" %}}"
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -71,13 +71,13 @@ Federico García Lorca and Evelyn Picón Garfield
 
 *Poems by Federico García Lorca (Spain, 1898-1936)*
 
-From "[Romancero gitano](http://www.tinet.org/~picl/libros/glorca/gl002500.htm)", 1928:
+From "{{% resource_link "8c96828b-c98e-482e-9af2-5ae1ef655a3d" "Romancero gitano" %}}", 1928:
 
-"[Prendimiento de Antoñito el Camborio en el camino de Sevilla](http://www.tinet.org/~picl/libros/glorca/gl002500.htm#11)"
+"{{% resource_link "11e5c1a9-2eb7-4162-bc1a-ad1dcec948a7" "Prendimiento de Antoñito el Camborio en el camino de Sevilla" %}}"
 
-"[Muerte de Antoñito el Camborio](http://www.tinet.org/~picl/libros/glorca/gl002500.htm#12)"
+"{{% resource_link "b3f14890-18f3-477b-b7e5-a70b2874a0c5" "Muerte de Antoñito el Camborio" %}}"
 
-"[Romance de la Guardia Civil Española](http://www.tinet.org/~picl/libros/glorca/gl002500.htm#15)"
+"{{% resource_link "1c754af0-14e3-4a16-abfa-0c490b48d7e6" "Romance de la Guardia Civil Española" %}}"
 
 Garfield, Evelyn Picón, and Ivan A. Schulman. "La poesía." Chapter II in *Las literaturas hispánicas: Introducción a su estudio*. Detroit, MI: Wayne State University Press, 1991, pp. 15-29 (2.1-2.20). ISBN: 9780814318638.
 
@@ -91,17 +91,17 @@ Miguel Hernández and Gabriel Celaya
 
 *Poems by Miguel Hernández (Spain, 1910-1942)*
 
-"Sentado sobre los muertos" (\[2\] from [Viento del pueblo](http://mhernandez.narod.ru/viento.htm), 1937)
+"Sentado sobre los muertos" (\[2\] from {{% resource_link "bf0f235e-0431-41af-a219-beabb2b7b131" "Viento del pueblo" %}}, 1937)
 
-"El niño yuntero" (\[4\] from [Viento del pueblo](http://mhernandez.narod.ru/viento.htm), 1937)
+"El niño yuntero" (\[4\] from {{% resource_link "bf0f235e-0431-41af-a219-beabb2b7b131" "Viento del pueblo" %}}, 1937)
 
-"Carta" (from [El hombre acecha](http://mhernandez.narod.ru/elhombre.htm), 1937-39)
+"Carta" (from {{% resource_link "35ba94a1-278b-4a83-9af3-d595dcb8a01f" "El hombre acecha" %}}, 1937-39)
 
 *Poems by Gabriel Celaya (Spain, 1911-1991):*
 
 "Hablando en castellano" (from Cantos íberos, 1955)
 
-"[La poesía es un arma cargada de futuro](http://amediavoz.com/celaya.htm)" (from Cantos íberos, 1955)
+"{{% resource_link "0e61c7fd-7008-4829-a8bd-21079f60e7b5" "La poesía es un arma cargada de futuro" %}}" (from Cantos íberos, 1955)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -113,33 +113,33 @@ César Vallejo
 
 *Poems by César Vallejo (Perú, 1892-1938)*
 
-"[Los heraldos negros](http://www.poesia-inter.net/cv18030.htm)" (from Los heraldos negros, 1918)
+"{{% resource_link "7e571c76-8fd7-486a-9f3c-fb841654569e" "Los heraldos negros" %}}" (from Los heraldos negros, 1918)
 
-"[LXXVI ("De la noche a la mañana voy")](http://www.poesia-inter.net/cv22076.htm)" (from Trilce, 1922)
+"{{% resource_link "3b4b7db5-ccee-45c2-9592-c581445267fa" "LXXVI (\"De la noche a la mañana voy\")" %}}" (from Trilce, 1922)
 
 From *Poemas humanos* , 1939, posthumous:
 
-"[Nómina de huesos](http://www.poesia-inter.net/cv23008.htm)"
+"{{% resource_link "d4523912-7b5a-4069-8beb-9fc43e1587eb" "Nómina de huesos" %}}"
 
-"[Voy a hablar de la esperanza](http://www.poesia-inter.net/cv23006.htm)"
+"{{% resource_link "cebf9dbd-1ca1-46d3-bab1-08d91594655c" "Voy a hablar de la esperanza" %}}"
 
-"[En el momento en que el tenista lanza magistralmente](http://www.poesia-inter.net/cv23016.htm)"
+"{{% resource_link "7861ceed-27fd-4214-9577-b771f380c706" "En el momento en que el tenista lanza magistralmente" %}}"
 
-"[Piedra negra sobre una piedra blanca](http://www.poesia-inter.net/cv31110.htm)"
+"{{% resource_link "08001c73-52a2-441a-a3b5-2b6d2fa4e5c2" "Piedra negra sobre una piedra blanca" %}}"
 
-"[Considerando en frío, imparcialmente…](http://www.poesia-inter.net/cv30017.htm)"
+"{{% resource_link "54f59305-3ad3-4563-abe9-eb7218528034" "Considerando en frío, imparcialmente…" %}}"
 
-"[Un hombre pasa con un pan al hombro](http://www.poesi.as/cv30063.htm)"
+"{{% resource_link "6302a68e-4c33-496d-90b8-88b993f174f0" "Un hombre pasa con un pan al hombro" %}}"
 
-"[Hoy me gusta la vida mucho menos…](http://www.poesia-inter.net/cv310cc.htm)"
+"{{% resource_link "89999e72-45e8-43b4-972b-f8e66d664a98" "Hoy me gusta la vida mucho menos…" %}}"
 
-"[¡Y si después de tantas palabras…](http://www.poesia-inter.net/cv31120.htm)"
+"{{% resource_link "544841d1-abde-4623-b262-d4176312ce57" "¡Y si después de tantas palabras…" %}}"
 
 From España, aparta de mí este caliz, 1937:
 
-"[Solía escribir con su dedo grande en el aire:](http://www.poesia-inter.net/cv39003.htm)"
+"{{% resource_link "6e5e0372-c9f7-43c1-a3c6-adf42969effd" "Solía escribir con su dedo grande en el aire:" %}}"
 
-"[Masa](http://www.poesia-inter.net/cv30050.htm)"
+"{{% resource_link "9be821ed-26e3-4599-9843-a44315dda94d" "Masa" %}}"
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -151,7 +151,7 @@ La casa de Bernarda Alba
 
 *Play by Federico García Lorca*
 
-[Act 1](http://www.tinet.org/~picl/libros/glorca/gl003d00.htm#uno) from "La casa de Bernarda Alba" (1936)
+{{% resource_link "3b4cfba9-268e-48ba-a9ec-8b6826fb6e6a" "Act 1" %}} from "La casa de Bernarda Alba" (1936)
 
 *Poem by Antonio Machado*
 
@@ -167,7 +167,7 @@ La casa de Bernarda Alba (cont.)
 
 *Play by Federico García Lorca*
 
-[Act 2](http://www.tinet.org/~picl/libros/glorca/gl003d00.htm#dos) from "La casa de Bernarda Alba" (1936)
+{{% resource_link "382ad5e7-6a69-452f-bc21-29ad8f755d9e" "Act 2" %}} from "La casa de Bernarda Alba" (1936)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -179,7 +179,7 @@ La casa de Bernarda Alba (cont.)
 
 *Play by Federico García Lorca*
 
-[Act 3](http://www.tinet.org/~picl/libros/glorca/gl003d00.htm#tres) from "La casa de Bernarda Alba" (1936)
+{{% resource_link "1062b074-3b6c-4e2d-b805-3cb207826206" "Act 3" %}} from "La casa de Bernarda Alba" (1936)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -243,9 +243,9 @@ Ramis. *Felices días, Tío Sergio*. 1986, chapters 3-4.
 
 From *Tuntún de Pasa y grifería* , 1937:
 
-"[Danza negra](http://www.poemasde.net/danza-negra-luis-pales-matos/)"
+"{{% resource_link "bb269903-8285-4a10-964e-f95ebcd72236" "Danza negra" %}}"
 
-"[Majestad negra](http://www.elboricua.com/Poems_Pales_MajestadNegra.html)"
+"{{% resource_link "c3d9e657-6c10-4caf-9ccb-f4e7dd06727b" "Majestad negra" %}}"
 
 {{< tdclose >}}{{< tdopen >}}
  
