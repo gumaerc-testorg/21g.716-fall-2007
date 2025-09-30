@@ -11,18 +11,18 @@ uid: ede2c1b9-708c-4e7e-c10c-e52fe424dcfb
 Goya
 ----
 
-[Goya at the WebMuseum](http://www.ibiblio.org/wm/paint/auth/goya/)
+{{% resource_link "b07236a7-ddaf-4469-8571-6576286bf1eb" "Goya at the WebMuseum" %}}
 
-Saturn devouring his son ([JPG](http://www.ibiblio.org/wm/paint/auth/goya/goya.saturn-son.jpg))
+Saturn devouring his son ({{% resource_link "c50b232a-1341-49de-827d-faba4408d82f" "JPG" %}})
 
 Jorge Luis Borges
 -----------------
 
-[The Borges Center](https://www.borges.pitt.edu/about)
+{{% resource_link "8bb4fe8c-4d44-478e-94e4-169753bc9f27" "The Borges Center" %}}
 
 Fishburn, Evelyn, and Psiche Hughes. _A Dictionary of Borges_. London, United Kingdom: Gerald Duckworth and Co., Ltd., 1989. ISBN: 9780715621547.
 
 Roberto Bolaño
 --------------
 
-[Biografía](http://www.biografiasyvidas.com/biografia/b/bolano.htm)
+{{% resource_link "4a269a8b-b19c-4d3e-8915-ccc9c02d9ddf" "Biografía" %}}
