@@ -48,7 +48,7 @@ This includes copying something out of a book, newspaper, journal or any other p
 - using a paper-writing "service" which offers to sell written papers for a fee.
 - translations (with or without translation software) of texts from other languages and submitting them as your own work.
 
-Plagiarism is an extremely serious academic offence. Students should be aware that they will be severely penalized if caught engaging in any form of plagiarism. If you have any questions or doubts about how to document the sources of your ideas, please consult your instructor. For further information you can consult the MIT Libraries: {{% resource_link "78ee25a5-deea-4f71-8dce-28e06380c0e0" "What is plagiarism and how to avoid it" %}}.
+Plagiarism is an extremely serious academic offence. Students should be aware that they will be severely penalized if caught engaging in any form of plagiarism. If you have any questions or doubts about how to document the sources of your ideas, please consult your instructor. For further information you can consult the MIT Libraries: [What is plagiarism and how to avoid it](http://libguides.mit.edu/content.php?pid=80743&sid=598642#1885811).
 
 ## Grading
 
